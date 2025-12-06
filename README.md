@@ -1,1 +1,3 @@
-# Algorithm_ProblemSolvingProject
+# Algorithm_Study
+
+* ProblemSolvingProject
