@@ -64,8 +64,6 @@ g++ -std=c++17 -O2 -Wall "소수세기.cpp" -o prime_count
 
 ## Notes
 
-이 저장소는 알고리즘과 자료구조를 공부하며 작성한 문제풀이 기록입니다.  
-정답 코드만 모으기보다는, 각 유형에서 어떤 자료구조와 접근법을 선택해야 하는지 익히는 데 의미를 두었습니다.
+이 저장소는 알고리즘과 자료구조를 공부하며 작성한 문제풀이 기록입니다.
 
 This repository is a study log created while learning algorithms and data structures.  
-Rather than simply collecting accepted solutions, it focuses on practicing how to choose appropriate data structures and approaches for each problem type.
